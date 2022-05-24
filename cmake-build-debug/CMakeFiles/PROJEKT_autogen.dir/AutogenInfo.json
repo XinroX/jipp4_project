@@ -1,0 +1,354 @@
+{
+	"BUILD_DIR" : "/Users/mateuszszybicki/Desktop/PROJEKT/cmake-build-debug/PROJEKT_autogen",
+	"CMAKE_BINARY_DIR" : "/Users/mateuszszybicki/Desktop/PROJEKT/cmake-build-debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "/Users/mateuszszybicki/Desktop/PROJEKT/cmake-build-debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/Users/mateuszszybicki/Desktop/PROJEKT",
+	"CMAKE_EXECUTABLE" : "/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake",
+	"CMAKE_LIST_FILES" : 
+	[
+		"/Users/mateuszszybicki/Desktop/PROJEKT/CMakeLists.txt",
+		"/Users/mateuszszybicki/Desktop/PROJEKT/cmake-build-debug/CMakeFiles/3.20.2/CMakeSystem.cmake",
+		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.20/Modules/CMakeSystemSpecificInitialize.cmake",
+		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.20/Modules/Platform/Darwin-Initialize.cmake",
+		"/Users/mateuszszybicki/Desktop/PROJEKT/cmake-build-debug/CMakeFiles/3.20.2/CMakeCCompiler.cmake",
+		"/Users/mateuszszybicki/Desktop/PROJEKT/cmake-build-debug/CMakeFiles/3.20.2/CMakeCXXCompiler.cmake",
+		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.20/Modules/CMakeSystemSpecificInformation.cmake",
+		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.20/Modules/CMakeGenericSystem.cmake",
+		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.20/Modules/CMakeInitializeConfigs.cmake",
+		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.20/Modules/Platform/Darwin.cmake",
+		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.20/Modules/Platform/UnixPaths.cmake",
+		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.20/Modules/CMakeFindCodeBlocks.cmake",
+		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.20/Modules/CMakeExtraGeneratorDetermineCompilerMacrosAndIncludeDirs.cmake",
+		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.20/Modules/ProcessorCount.cmake",
+		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.20/Modules/CMakeCInformation.cmake",
+		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.20/Modules/CMakeLanguageInformation.cmake",
+		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.20/Modules/Compiler/AppleClang-C.cmake",
+		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.20/Modules/Compiler/Clang.cmake",
+		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.20/Modules/Compiler/CMakeCommonCompilerMacros.cmake",
+		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.20/Modules/Compiler/GNU.cmake",
+		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.20/Modules/Compiler/CMakeCommonCompilerMacros.cmake",
+		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.20/Modules/Platform/Apple-AppleClang-C.cmake",
+		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.20/Modules/Platform/Apple-Clang-C.cmake",
+		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.20/Modules/Platform/Apple-Clang.cmake",
+		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.20/Modules/CMakeCommonLanguageInclude.cmake",
+		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.20/Modules/CMakeCXXInformation.cmake",
+		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.20/Modules/CMakeLanguageInformation.cmake",
+		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.20/Modules/Compiler/AppleClang-CXX.cmake",
+		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.20/Modules/Compiler/Clang.cmake",
+		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.20/Modules/Platform/Apple-AppleClang-CXX.cmake",
+		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.20/Modules/Platform/Apple-Clang-CXX.cmake",
+		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.20/Modules/Platform/Apple-Clang.cmake",
+		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.20/Modules/CMakeCommonLanguageInclude.cmake",
+		"/Users/mateuszszybicki/Qt/5.15.0/clang_64/lib/cmake/Qt5/Qt5ConfigVersion.cmake",
+		"/Users/mateuszszybicki/Qt/5.15.0/clang_64/lib/cmake/Qt5/Qt5Config.cmake",
+		"/Users/mateuszszybicki/Qt/5.15.0/clang_64/lib/cmake/Qt5/Qt5ModuleLocation.cmake",
+		"/Users/mateuszszybicki/Qt/5.15.0/clang_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfigVersion.cmake",
+		"/Users/mateuszszybicki/Qt/5.15.0/clang_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfig.cmake",
+		"/Users/mateuszszybicki/Qt/5.15.0/clang_64/lib/cmake/Qt5Gui/Qt5GuiConfigVersion.cmake",
+		"/Users/mateuszszybicki/Qt/5.15.0/clang_64/lib/cmake/Qt5Gui/Qt5GuiConfig.cmake",
+		"/Users/mateuszszybicki/Qt/5.15.0/clang_64/lib/cmake/Qt5Core/Qt5CoreConfigVersion.cmake",
+		"/Users/mateuszszybicki/Qt/5.15.0/clang_64/lib/cmake/Qt5Core/Qt5CoreConfig.cmake",
+		"/Users/mateuszszybicki/Qt/5.15.0/clang_64/lib/cmake/Qt5Core/Qt5CoreConfigExtras.cmake",
+		"/Users/mateuszszybicki/Qt/5.15.0/clang_64/lib/cmake/Qt5Core/Qt5CoreConfigExtrasMkspecDir.cmake",
+		"/Users/mateuszszybicki/Qt/5.15.0/clang_64/lib/cmake/Qt5Core/Qt5CoreMacros.cmake",
+		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.20/Modules/CMakeParseArguments.cmake",
+		"/Users/mateuszszybicki/Qt/5.15.0/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QCocoaIntegrationPlugin.cmake",
+		"/Users/mateuszszybicki/Qt/5.15.0/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QGifPlugin.cmake",
+		"/Users/mateuszszybicki/Qt/5.15.0/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QICNSPlugin.cmake",
+		"/Users/mateuszszybicki/Qt/5.15.0/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QICOPlugin.cmake",
+		"/Users/mateuszszybicki/Qt/5.15.0/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QJpegPlugin.cmake",
+		"/Users/mateuszszybicki/Qt/5.15.0/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QMacHeifPlugin.cmake",
+		"/Users/mateuszszybicki/Qt/5.15.0/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QMacJp2Plugin.cmake",
+		"/Users/mateuszszybicki/Qt/5.15.0/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QMinimalIntegrationPlugin.cmake",
+		"/Users/mateuszszybicki/Qt/5.15.0/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QOffscreenIntegrationPlugin.cmake",
+		"/Users/mateuszszybicki/Qt/5.15.0/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QSvgIconPlugin.cmake",
+		"/Users/mateuszszybicki/Qt/5.15.0/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QSvgPlugin.cmake",
+		"/Users/mateuszszybicki/Qt/5.15.0/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QTgaPlugin.cmake",
+		"/Users/mateuszszybicki/Qt/5.15.0/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QTiffPlugin.cmake",
+		"/Users/mateuszszybicki/Qt/5.15.0/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QTuioTouchPlugin.cmake",
+		"/Users/mateuszszybicki/Qt/5.15.0/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QVirtualKeyboardPlugin.cmake",
+		"/Users/mateuszszybicki/Qt/5.15.0/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QWbmpPlugin.cmake",
+		"/Users/mateuszszybicki/Qt/5.15.0/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QWebGLIntegrationPlugin.cmake",
+		"/Users/mateuszszybicki/Qt/5.15.0/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QWebpPlugin.cmake",
+		"/Users/mateuszszybicki/Qt/5.15.0/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QXdgDesktopPortalThemePlugin.cmake",
+		"/Users/mateuszszybicki/Qt/5.15.0/clang_64/lib/cmake/Qt5Gui/Qt5GuiConfigExtras.cmake",
+		"/Users/mateuszszybicki/Qt/5.15.0/clang_64/lib/cmake/Qt5Widgets/Qt5Widgets_QMacStylePlugin.cmake",
+		"/Users/mateuszszybicki/Qt/5.15.0/clang_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfigExtras.cmake",
+		"/Users/mateuszszybicki/Qt/5.15.0/clang_64/lib/cmake/Qt5Widgets/Qt5WidgetsMacros.cmake",
+		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.20/Modules/CMakeParseArguments.cmake",
+		"/Users/mateuszszybicki/Qt/5.15.0/clang_64/lib/cmake/Qt5Sql/Qt5SqlConfigVersion.cmake",
+		"/Users/mateuszszybicki/Qt/5.15.0/clang_64/lib/cmake/Qt5Sql/Qt5SqlConfig.cmake",
+		"/Users/mateuszszybicki/Qt/5.15.0/clang_64/lib/cmake/Qt5Sql/Qt5Sql_QODBCDriverPlugin.cmake",
+		"/Users/mateuszszybicki/Qt/5.15.0/clang_64/lib/cmake/Qt5Sql/Qt5Sql_QPSQLDriverPlugin.cmake",
+		"/Users/mateuszszybicki/Qt/5.15.0/clang_64/lib/cmake/Qt5Sql/Qt5Sql_QSQLiteDriverPlugin.cmake"
+	],
+	"CMAKE_SOURCE_DIR" : "/Users/mateuszszybicki/Desktop/PROJEKT",
+	"DEP_FILE" : "",
+	"DEP_FILE_RULE_NAME" : "",
+	"HEADERS" : 
+	[
+		[
+			"/Users/mateuszszybicki/Desktop/PROJEKT/addlecturerdialog.h",
+			"MU",
+			"EWIEGA46WW/moc_addlecturerdialog.cpp",
+			null
+		],
+		[
+			"/Users/mateuszszybicki/Desktop/PROJEKT/address.h",
+			"MU",
+			"EWIEGA46WW/moc_address.cpp",
+			null
+		],
+		[
+			"/Users/mateuszszybicki/Desktop/PROJEKT/addstudentdialog.h",
+			"MU",
+			"EWIEGA46WW/moc_addstudentdialog.cpp",
+			null
+		],
+		[
+			"/Users/mateuszszybicki/Desktop/PROJEKT/changedialog.h",
+			"MU",
+			"EWIEGA46WW/moc_changedialog.cpp",
+			null
+		],
+		[
+			"/Users/mateuszszybicki/Desktop/PROJEKT/connector.h",
+			"MU",
+			"EWIEGA46WW/moc_connector.cpp",
+			null
+		],
+		[
+			"/Users/mateuszszybicki/Desktop/PROJEKT/course.h",
+			"MU",
+			"EWIEGA46WW/moc_course.cpp",
+			null
+		],
+		[
+			"/Users/mateuszszybicki/Desktop/PROJEKT/coursedialog.h",
+			"MU",
+			"EWIEGA46WW/moc_coursedialog.cpp",
+			null
+		],
+		[
+			"/Users/mateuszszybicki/Desktop/PROJEKT/dbreader.h",
+			"MU",
+			"EWIEGA46WW/moc_dbreader.cpp",
+			null
+		],
+		[
+			"/Users/mateuszszybicki/Desktop/PROJEKT/dbwriter.h",
+			"MU",
+			"EWIEGA46WW/moc_dbwriter.cpp",
+			null
+		],
+		[
+			"/Users/mateuszszybicki/Desktop/PROJEKT/dialog.h",
+			"MU",
+			"EWIEGA46WW/moc_dialog.cpp",
+			null
+		],
+		[
+			"/Users/mateuszszybicki/Desktop/PROJEKT/employee.h",
+			"MU",
+			"EWIEGA46WW/moc_employee.cpp",
+			null
+		],
+		[
+			"/Users/mateuszszybicki/Desktop/PROJEKT/employeedialog.h",
+			"MU",
+			"EWIEGA46WW/moc_employeedialog.cpp",
+			null
+		],
+		[
+			"/Users/mateuszszybicki/Desktop/PROJEKT/grade.h",
+			"MU",
+			"EWIEGA46WW/moc_grade.cpp",
+			null
+		],
+		[
+			"/Users/mateuszszybicki/Desktop/PROJEKT/lecturer.h",
+			"MU",
+			"EWIEGA46WW/moc_lecturer.cpp",
+			null
+		],
+		[
+			"/Users/mateuszszybicki/Desktop/PROJEKT/loadform.h",
+			"MU",
+			"EWIEGA46WW/moc_loadform.cpp",
+			null
+		],
+		[
+			"/Users/mateuszszybicki/Desktop/PROJEKT/logindialog.h",
+			"MU",
+			"EWIEGA46WW/moc_logindialog.cpp",
+			null
+		],
+		[
+			"/Users/mateuszszybicki/Desktop/PROJEKT/person.h",
+			"MU",
+			"EWIEGA46WW/moc_person.cpp",
+			null
+		],
+		[
+			"/Users/mateuszszybicki/Desktop/PROJEKT/program.h",
+			"MU",
+			"EWIEGA46WW/moc_program.cpp",
+			null
+		],
+		[
+			"/Users/mateuszszybicki/Desktop/PROJEKT/student.h",
+			"MU",
+			"EWIEGA46WW/moc_student.cpp",
+			null
+		],
+		[
+			"/Users/mateuszszybicki/Desktop/PROJEKT/studentdialog.h",
+			"MU",
+			"EWIEGA46WW/moc_studentdialog.cpp",
+			null
+		],
+		[
+			"/Users/mateuszszybicki/Desktop/PROJEKT/studenttablegenerator.h",
+			"MU",
+			"EWIEGA46WW/moc_studenttablegenerator.cpp",
+			null
+		],
+		[
+			"/Users/mateuszszybicki/Desktop/PROJEKT/subject.h",
+			"MU",
+			"EWIEGA46WW/moc_subject.cpp",
+			null
+		],
+		[
+			"/Users/mateuszszybicki/Desktop/PROJEKT/subjecteditdialog.h",
+			"MU",
+			"EWIEGA46WW/moc_subjecteditdialog.cpp",
+			null
+		],
+		[
+			"/Users/mateuszszybicki/Desktop/PROJEKT/tablewidgetgenerator.h",
+			"MU",
+			"EWIEGA46WW/moc_tablewidgetgenerator.cpp",
+			null
+		],
+		[
+			"/Users/mateuszszybicki/Desktop/PROJEKT/tools.h",
+			"MU",
+			"EWIEGA46WW/moc_tools.cpp",
+			null
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "/Users/mateuszszybicki/Desktop/PROJEKT/cmake-build-debug/PROJEKT_autogen/include",
+	"MOC_COMPILATION_FILE" : "/Users/mateuszszybicki/Desktop/PROJEKT/cmake-build-debug/PROJEKT_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : [ "QT_CORE_LIB", "QT_GUI_LIB", "QT_SQL_LIB", "QT_WIDGETS_LIB" ],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"/Users/mateuszszybicki/Desktop/PROJEKT",
+		"/Users/mateuszszybicki/Qt/5.15.0/clang_64/lib/QtWidgets.framework",
+		"/Users/mateuszszybicki/Qt/5.15.0/clang_64/lib/QtWidgets.framework/Headers",
+		"/Users/mateuszszybicki/Qt/5.15.0/clang_64/lib/QtGui.framework",
+		"/Users/mateuszszybicki/Qt/5.15.0/clang_64/lib/QtGui.framework/Headers",
+		"/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/OpenGL.framework/Headers",
+		"/Users/mateuszszybicki/Qt/5.15.0/clang_64/lib/QtCore.framework",
+		"/Users/mateuszszybicki/Qt/5.15.0/clang_64/lib/QtCore.framework/Headers",
+		"/Users/mateuszszybicki/Qt/5.15.0/clang_64/mkspecs/macx-clang",
+		"/Users/mateuszszybicki/Qt/5.15.0/clang_64/lib/QtSql.framework",
+		"/Users/mateuszszybicki/Qt/5.15.0/clang_64/lib/QtSql.framework/Headers",
+		"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1",
+		"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.3/include",
+		"/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include",
+		"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"
+	],
+	"MOC_MACRO_NAMES" : [ "Q_OBJECT", "Q_GADGET", "Q_NAMESPACE", "Q_NAMESPACE_EXPORT" ],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++",
+		"-dM",
+		"-E",
+		"-c",
+		"/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.20/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "/Users/mateuszszybicki/Desktop/PROJEKT/cmake-build-debug/PROJEKT_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 2,
+	"PARSE_CACHE_FILE" : "/Users/mateuszszybicki/Desktop/PROJEKT/cmake-build-debug/CMakeFiles/PROJEKT_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "/Users/mateuszszybicki/Qt/5.15.0/clang_64/bin/moc",
+	"QT_UIC_EXECUTABLE" : "/Users/mateuszszybicki/Qt/5.15.0/clang_64/bin/uic",
+	"QT_VERSION_MAJOR" : 5,
+	"QT_VERSION_MINOR" : 15,
+	"SETTINGS_FILE" : "/Users/mateuszszybicki/Desktop/PROJEKT/cmake-build-debug/CMakeFiles/PROJEKT_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"/Users/mateuszszybicki/Desktop/PROJEKT/addlecturerdialog.cpp",
+			"MU",
+			null
+		],
+		[ "/Users/mateuszszybicki/Desktop/PROJEKT/address.cpp", "MU", null ],
+		[
+			"/Users/mateuszszybicki/Desktop/PROJEKT/addstudentdialog.cpp",
+			"MU",
+			null
+		],
+		[ "/Users/mateuszszybicki/Desktop/PROJEKT/changedialog.cpp", "MU", null ],
+		[ "/Users/mateuszszybicki/Desktop/PROJEKT/connector.cpp", "MU", null ],
+		[ "/Users/mateuszszybicki/Desktop/PROJEKT/course.cpp", "MU", null ],
+		[ "/Users/mateuszszybicki/Desktop/PROJEKT/coursedialog.cpp", "MU", null ],
+		[ "/Users/mateuszszybicki/Desktop/PROJEKT/dbreader.cpp", "MU", null ],
+		[ "/Users/mateuszszybicki/Desktop/PROJEKT/dbwriter.cpp", "MU", null ],
+		[ "/Users/mateuszszybicki/Desktop/PROJEKT/dialog.cpp", "MU", null ],
+		[ "/Users/mateuszszybicki/Desktop/PROJEKT/employee.cpp", "MU", null ],
+		[
+			"/Users/mateuszszybicki/Desktop/PROJEKT/employeedialog.cpp",
+			"MU",
+			null
+		],
+		[ "/Users/mateuszszybicki/Desktop/PROJEKT/grade.cpp", "MU", null ],
+		[ "/Users/mateuszszybicki/Desktop/PROJEKT/lecturer.cpp", "MU", null ],
+		[ "/Users/mateuszszybicki/Desktop/PROJEKT/loadform.cpp", "MU", null ],
+		[ "/Users/mateuszszybicki/Desktop/PROJEKT/logindialog.cpp", "MU", null ],
+		[ "/Users/mateuszszybicki/Desktop/PROJEKT/main.cpp", "MU", null ],
+		[ "/Users/mateuszszybicki/Desktop/PROJEKT/person.cpp", "MU", null ],
+		[ "/Users/mateuszszybicki/Desktop/PROJEKT/program.cpp", "MU", null ],
+		[ "/Users/mateuszszybicki/Desktop/PROJEKT/student.cpp", "MU", null ],
+		[
+			"/Users/mateuszszybicki/Desktop/PROJEKT/studentdialog.cpp",
+			"MU",
+			null
+		],
+		[
+			"/Users/mateuszszybicki/Desktop/PROJEKT/studenttablegenerator.cpp",
+			"MU",
+			null
+		],
+		[ "/Users/mateuszszybicki/Desktop/PROJEKT/subject.cpp", "MU", null ],
+		[
+			"/Users/mateuszszybicki/Desktop/PROJEKT/subjecteditdialog.cpp",
+			"MU",
+			null
+		],
+		[
+			"/Users/mateuszszybicki/Desktop/PROJEKT/tablewidgetgenerator.cpp",
+			"MU",
+			null
+		],
+		[ "/Users/mateuszszybicki/Desktop/PROJEKT/tools.cpp", "MU", null ]
+	],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [],
+	"UIC_SKIP" : [],
+	"UIC_UI_FILES" : [],
+	"VERBOSITY" : 0
+}

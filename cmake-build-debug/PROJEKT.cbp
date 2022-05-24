@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="PROJEKT"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\Qt\;CMake Files\..\..\Qt\5.15.0\;CMake Files\..\..\Qt\5.15.0\clang_64\;CMake Files\..\..\Qt\5.15.0\clang_64\lib\;CMake Files\..\..\Qt\5.15.0\clang_64\lib\cmake\;CMake Files\..\..\Qt\5.15.0\clang_64\lib\cmake\Qt5\;CMake Files\..\..\Qt\5.15.0\clang_64\lib\cmake\Qt5Widgets\;CMake Files\..\..\Qt\5.15.0\clang_64\lib\cmake\Qt5Gui\;CMake Files\..\..\Qt\5.15.0\clang_64\lib\cmake\Qt5Core\;CMake Files\..\..\Qt\5.15.0\clang_64\lib\cmake\Qt5Sql\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/mateuszszybicki/Desktop/PROJEKT/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/mateuszszybicki/Desktop/PROJEKT/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/mateuszszybicki/Desktop/PROJEKT/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/mateuszszybicki/Desktop/PROJEKT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/mateuszszybicki/Desktop/PROJEKT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/mateuszszybicki/Desktop/PROJEKT/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/mateuszszybicki/Desktop/PROJEKT/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/mateuszszybicki/Desktop/PROJEKT/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/mateuszszybicki/Desktop/PROJEKT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/mateuszszybicki/Desktop/PROJEKT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/mateuszszybicki/Desktop/PROJEKT/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/mateuszszybicki/Desktop/PROJEKT/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/mateuszszybicki/Desktop/PROJEKT/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/mateuszszybicki/Desktop/PROJEKT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/mateuszszybicki/Desktop/PROJEKT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="PROJEKT">
+				<Option output="/Users/mateuszszybicki/Desktop/PROJEKT/cmake-build-debug/PROJEKT" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/mateuszszybicki/Desktop/PROJEKT/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DQT_WIDGETS_LIB"/>
+					<Add option="-DQT_GUI_LIB"/>
+					<Add option="-DQT_CORE_LIB"/>
+					<Add option="-DQT_SQL_LIB"/>
+					<Add directory="/Users/mateuszszybicki/Desktop/PROJEKT/cmake-build-debug/PROJEKT_autogen/include"/>
+					<Add directory="/Users/mateuszszybicki/Desktop/PROJEKT/."/>
+					<Add directory="/Users/mateuszszybicki/Qt/5.15.0/clang_64/lib/QtWidgets.framework"/>
+					<Add directory="/Users/mateuszszybicki/Qt/5.15.0/clang_64/lib/QtWidgets.framework/Headers"/>
+					<Add directory="/Users/mateuszszybicki/Qt/5.15.0/clang_64/lib/QtGui.framework"/>
+					<Add directory="/Users/mateuszszybicki/Qt/5.15.0/clang_64/lib/QtGui.framework/Headers"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/OpenGL.framework/Headers"/>
+					<Add directory="/Users/mateuszszybicki/Qt/5.15.0/clang_64/lib/QtCore.framework"/>
+					<Add directory="/Users/mateuszszybicki/Qt/5.15.0/clang_64/lib/QtCore.framework/Headers"/>
+					<Add directory="/Users/mateuszszybicki/Qt/5.15.0/clang_64/./mkspecs/macx-clang"/>
+					<Add directory="/Users/mateuszszybicki/Qt/5.15.0/clang_64/lib/QtSql.framework"/>
+					<Add directory="/Users/mateuszszybicki/Qt/5.15.0/clang_64/lib/QtSql.framework/Headers"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/mateuszszybicki/Desktop/PROJEKT/cmake-build-debug/Makefile&quot;  VERBOSE=1 PROJEKT"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/mateuszszybicki/Desktop/PROJEKT/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/mateuszszybicki/Desktop/PROJEKT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/mateuszszybicki/Desktop/PROJEKT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="PROJEKT/fast">
+				<Option output="/Users/mateuszszybicki/Desktop/PROJEKT/cmake-build-debug/PROJEKT" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/mateuszszybicki/Desktop/PROJEKT/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DQT_WIDGETS_LIB"/>
+					<Add option="-DQT_GUI_LIB"/>
+					<Add option="-DQT_CORE_LIB"/>
+					<Add option="-DQT_SQL_LIB"/>
+					<Add directory="/Users/mateuszszybicki/Desktop/PROJEKT/cmake-build-debug/PROJEKT_autogen/include"/>
+					<Add directory="/Users/mateuszszybicki/Desktop/PROJEKT/."/>
+					<Add directory="/Users/mateuszszybicki/Qt/5.15.0/clang_64/lib/QtWidgets.framework"/>
+					<Add directory="/Users/mateuszszybicki/Qt/5.15.0/clang_64/lib/QtWidgets.framework/Headers"/>
+					<Add directory="/Users/mateuszszybicki/Qt/5.15.0/clang_64/lib/QtGui.framework"/>
+					<Add directory="/Users/mateuszszybicki/Qt/5.15.0/clang_64/lib/QtGui.framework/Headers"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/OpenGL.framework/Headers"/>
+					<Add directory="/Users/mateuszszybicki/Qt/5.15.0/clang_64/lib/QtCore.framework"/>
+					<Add directory="/Users/mateuszszybicki/Qt/5.15.0/clang_64/lib/QtCore.framework/Headers"/>
+					<Add directory="/Users/mateuszszybicki/Qt/5.15.0/clang_64/./mkspecs/macx-clang"/>
+					<Add directory="/Users/mateuszszybicki/Qt/5.15.0/clang_64/lib/QtSql.framework"/>
+					<Add directory="/Users/mateuszszybicki/Qt/5.15.0/clang_64/lib/QtSql.framework/Headers"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.3/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/mateuszszybicki/Desktop/PROJEKT/cmake-build-debug/Makefile&quot;  VERBOSE=1 PROJEKT/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/mateuszszybicki/Desktop/PROJEKT/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/mateuszszybicki/Desktop/PROJEKT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/mateuszszybicki/Desktop/PROJEKT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="PROJEKT_autogen">
+				<Option working_dir="/Users/mateuszszybicki/Desktop/PROJEKT/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/mateuszszybicki/Desktop/PROJEKT/cmake-build-debug/Makefile&quot;  VERBOSE=1 PROJEKT_autogen"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/mateuszszybicki/Desktop/PROJEKT/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/mateuszszybicki/Desktop/PROJEKT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/mateuszszybicki/Desktop/PROJEKT/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/mateuszszybicki/Desktop/PROJEKT/addlecturerdialog.cpp">
+			<Option target="PROJEKT"/>
+		</Unit>
+		<Unit filename="/Users/mateuszszybicki/Desktop/PROJEKT/addlecturerdialog.h">
+			<Option target="PROJEKT"/>
+		</Unit>
+		<Unit filename="/Users/mateuszszybicki/Desktop/PROJEKT/address.cpp">
+			<Option target="PROJEKT"/>
+		</Unit>
+		<Unit filename="/Users/mateuszszybicki/Desktop/PROJEKT/address.h">
+			<Option target="PROJEKT"/>
+		</Unit>
+		<Unit filename="/Users/mateuszszybicki/Desktop/PROJEKT/addstudentdialog.cpp">
+			<Option target="PROJEKT"/>
+		</Unit>
+		<Unit filename="/Users/mateuszszybicki/Desktop/PROJEKT/addstudentdialog.h">
+			<Option target="PROJEKT"/>
+		</Unit>
+		<Unit filename="/Users/mateuszszybicki/Desktop/PROJEKT/changedialog.cpp">
+			<Option target="PROJEKT"/>
+		</Unit>
+		<Unit filename="/Users/mateuszszybicki/Desktop/PROJEKT/changedialog.h">
+			<Option target="PROJEKT"/>
+		</Unit>
+		<Unit filename="/Users/mateuszszybicki/Desktop/PROJEKT/cmake-build-debug/PROJEKT_autogen/mocs_compilation.cpp">
+			<Option target="PROJEKT"/>
+		</Unit>
+		<Unit filename="/Users/mateuszszybicki/Desktop/PROJEKT/connector.cpp">
+			<Option target="PROJEKT"/>
+		</Unit>
+		<Unit filename="/Users/mateuszszybicki/Desktop/PROJEKT/connector.h">
+			<Option target="PROJEKT"/>
+		</Unit>
+		<Unit filename="/Users/mateuszszybicki/Desktop/PROJEKT/course.cpp">
+			<Option target="PROJEKT"/>
+		</Unit>
+		<Unit filename="/Users/mateuszszybicki/Desktop/PROJEKT/course.h">
+			<Option target="PROJEKT"/>
+		</Unit>
+		<Unit filename="/Users/mateuszszybicki/Desktop/PROJEKT/coursedialog.cpp">
+			<Option target="PROJEKT"/>
+		</Unit>
+		<Unit filename="/Users/mateuszszybicki/Desktop/PROJEKT/coursedialog.h">
+			<Option target="PROJEKT"/>
+		</Unit>
+		<Unit filename="/Users/mateuszszybicki/Desktop/PROJEKT/dbreader.cpp">
+			<Option target="PROJEKT"/>
+		</Unit>
+		<Unit filename="/Users/mateuszszybicki/Desktop/PROJEKT/dbreader.h">
+			<Option target="PROJEKT"/>
+		</Unit>
+		<Unit filename="/Users/mateuszszybicki/Desktop/PROJEKT/dbwriter.cpp">
+			<Option target="PROJEKT"/>
+		</Unit>
+		<Unit filename="/Users/mateuszszybicki/Desktop/PROJEKT/dbwriter.h">
+			<Option target="PROJEKT"/>
+		</Unit>
+		<Unit filename="/Users/mateuszszybicki/Desktop/PROJEKT/dialog.cpp">
+			<Option target="PROJEKT"/>
+		</Unit>
+		<Unit filename="/Users/mateuszszybicki/Desktop/PROJEKT/dialog.h">
+			<Option target="PROJEKT"/>
+		</Unit>
+		<Unit filename="/Users/mateuszszybicki/Desktop/PROJEKT/employee.cpp">
+			<Option target="PROJEKT"/>
+		</Unit>
+		<Unit filename="/Users/mateuszszybicki/Desktop/PROJEKT/employee.h">
+			<Option target="PROJEKT"/>
+		</Unit>
+		<Unit filename="/Users/mateuszszybicki/Desktop/PROJEKT/employeedialog.cpp">
+			<Option target="PROJEKT"/>
+		</Unit>
+		<Unit filename="/Users/mateuszszybicki/Desktop/PROJEKT/employeedialog.h">
+			<Option target="PROJEKT"/>
+		</Unit>
+		<Unit filename="/Users/mateuszszybicki/Desktop/PROJEKT/grade.cpp">
+			<Option target="PROJEKT"/>
+		</Unit>
+		<Unit filename="/Users/mateuszszybicki/Desktop/PROJEKT/grade.h">
+			<Option target="PROJEKT"/>
+		</Unit>
+		<Unit filename="/Users/mateuszszybicki/Desktop/PROJEKT/lecturer.cpp">
+			<Option target="PROJEKT"/>
+		</Unit>
+		<Unit filename="/Users/mateuszszybicki/Desktop/PROJEKT/lecturer.h">
+			<Option target="PROJEKT"/>
+		</Unit>
+		<Unit filename="/Users/mateuszszybicki/Desktop/PROJEKT/loadform.cpp">
+			<Option target="PROJEKT"/>
+		</Unit>
+		<Unit filename="/Users/mateuszszybicki/Desktop/PROJEKT/loadform.h">
+			<Option target="PROJEKT"/>
+		</Unit>
+		<Unit filename="/Users/mateuszszybicki/Desktop/PROJEKT/logindialog.cpp">
+			<Option target="PROJEKT"/>
+		</Unit>
+		<Unit filename="/Users/mateuszszybicki/Desktop/PROJEKT/logindialog.h">
+			<Option target="PROJEKT"/>
+		</Unit>
+		<Unit filename="/Users/mateuszszybicki/Desktop/PROJEKT/main.cpp">
+			<Option target="PROJEKT"/>
+		</Unit>
+		<Unit filename="/Users/mateuszszybicki/Desktop/PROJEKT/person.cpp">
+			<Option target="PROJEKT"/>
+		</Unit>
+		<Unit filename="/Users/mateuszszybicki/Desktop/PROJEKT/person.h">
+			<Option target="PROJEKT"/>
+		</Unit>
+		<Unit filename="/Users/mateuszszybicki/Desktop/PROJEKT/program.cpp">
+			<Option target="PROJEKT"/>
+		</Unit>
+		<Unit filename="/Users/mateuszszybicki/Desktop/PROJEKT/program.h">
+			<Option target="PROJEKT"/>
+		</Unit>
+		<Unit filename="/Users/mateuszszybicki/Desktop/PROJEKT/student.cpp">
+			<Option target="PROJEKT"/>
+		</Unit>
+		<Unit filename="/Users/mateuszszybicki/Desktop/PROJEKT/student.h">
+			<Option target="PROJEKT"/>
+		</Unit>
+		<Unit filename="/Users/mateuszszybicki/Desktop/PROJEKT/studentdialog.cpp">
+			<Option target="PROJEKT"/>
+		</Unit>
+		<Unit filename="/Users/mateuszszybicki/Desktop/PROJEKT/studentdialog.h">
+			<Option target="PROJEKT"/>
+		</Unit>
+		<Unit filename="/Users/mateuszszybicki/Desktop/PROJEKT/studenttablegenerator.cpp">
+			<Option target="PROJEKT"/>
+		</Unit>
+		<Unit filename="/Users/mateuszszybicki/Desktop/PROJEKT/studenttablegenerator.h">
+			<Option target="PROJEKT"/>
+		</Unit>
+		<Unit filename="/Users/mateuszszybicki/Desktop/PROJEKT/subject.cpp">
+			<Option target="PROJEKT"/>
+		</Unit>
+		<Unit filename="/Users/mateuszszybicki/Desktop/PROJEKT/subject.h">
+			<Option target="PROJEKT"/>
+		</Unit>
+		<Unit filename="/Users/mateuszszybicki/Desktop/PROJEKT/subjecteditdialog.cpp">
+			<Option target="PROJEKT"/>
+		</Unit>
+		<Unit filename="/Users/mateuszszybicki/Desktop/PROJEKT/subjecteditdialog.h">
+			<Option target="PROJEKT"/>
+		</Unit>
+		<Unit filename="/Users/mateuszszybicki/Desktop/PROJEKT/tablewidgetgenerator.cpp">
+			<Option target="PROJEKT"/>
+		</Unit>
+		<Unit filename="/Users/mateuszszybicki/Desktop/PROJEKT/tablewidgetgenerator.h">
+			<Option target="PROJEKT"/>
+		</Unit>
+		<Unit filename="/Users/mateuszszybicki/Desktop/PROJEKT/tools.cpp">
+			<Option target="PROJEKT"/>
+		</Unit>
+		<Unit filename="/Users/mateuszszybicki/Desktop/PROJEKT/tools.h">
+			<Option target="PROJEKT"/>
+		</Unit>
+		<Unit filename="/Users/mateuszszybicki/Desktop/PROJEKT/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/Users/mateuszszybicki/Desktop/PROJEKT/../../Qt/5.15.0/clang_64/lib/cmake/Qt5/Qt5Config.cmake">
+			<Option virtualFolder="CMake Files\..\..\Qt\5.15.0\clang_64\lib\cmake\Qt5\"/>
+		</Unit>
+		<Unit filename="/Users/mateuszszybicki/Desktop/PROJEKT/../../Qt/5.15.0/clang_64/lib/cmake/Qt5/Qt5ConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\Qt\5.15.0\clang_64\lib\cmake\Qt5\"/>
+		</Unit>
+		<Unit filename="/Users/mateuszszybicki/Desktop/PROJEKT/../../Qt/5.15.0/clang_64/lib/cmake/Qt5/Qt5ModuleLocation.cmake">
+			<Option virtualFolder="CMake Files\..\..\Qt\5.15.0\clang_64\lib\cmake\Qt5\"/>
+		</Unit>
+		<Unit filename="/Users/mateuszszybicki/Desktop/PROJEKT/../../Qt/5.15.0/clang_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\Qt\5.15.0\clang_64\lib\cmake\Qt5Widgets\"/>
+		</Unit>
+		<Unit filename="/Users/mateuszszybicki/Desktop/PROJEKT/../../Qt/5.15.0/clang_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfigExtras.cmake">
+			<Option virtualFolder="CMake Files\..\..\Qt\5.15.0\clang_64\lib\cmake\Qt5Widgets\"/>
+		</Unit>
+		<Unit filename="/Users/mateuszszybicki/Desktop/PROJEKT/../../Qt/5.15.0/clang_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\Qt\5.15.0\clang_64\lib\cmake\Qt5Widgets\"/>
+		</Unit>
+		<Unit filename="/Users/mateuszszybicki/Desktop/PROJEKT/../../Qt/5.15.0/clang_64/lib/cmake/Qt5Widgets/Qt5WidgetsMacros.cmake">
+			<Option virtualFolder="CMake Files\..\..\Qt\5.15.0\clang_64\lib\cmake\Qt5Widgets\"/>
+		</Unit>
+		<Unit filename="/Users/mateuszszybicki/Desktop/PROJEKT/../../Qt/5.15.0/clang_64/lib/cmake/Qt5Widgets/Qt5Widgets_QMacStylePlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\Qt\5.15.0\clang_64\lib\cmake\Qt5Widgets\"/>
+		</Unit>
+		<Unit filename="/Users/mateuszszybicki/Desktop/PROJEKT/../../Qt/5.15.0/clang_64/lib/cmake/Qt5Gui/Qt5GuiConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\Qt\5.15.0\clang_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/Users/mateuszszybicki/Desktop/PROJEKT/../../Qt/5.15.0/clang_64/lib/cmake/Qt5Gui/Qt5GuiConfigExtras.cmake">
+			<Option virtualFolder="CMake Files\..\..\Qt\5.15.0\clang_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/Users/mateuszszybicki/Desktop/PROJEKT/../../Qt/5.15.0/clang_64/lib/cmake/Qt5Gui/Qt5GuiConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\Qt\5.15.0\clang_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/Users/mateuszszybicki/Desktop/PROJEKT/../../Qt/5.15.0/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QCocoaIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\Qt\5.15.0\clang_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/Users/mateuszszybicki/Desktop/PROJEKT/../../Qt/5.15.0/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QGifPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\Qt\5.15.0\clang_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/Users/mateuszszybicki/Desktop/PROJEKT/../../Qt/5.15.0/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QICNSPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\Qt\5.15.0\clang_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/Users/mateuszszybicki/Desktop/PROJEKT/../../Qt/5.15.0/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QICOPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\Qt\5.15.0\clang_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/Users/mateuszszybicki/Desktop/PROJEKT/../../Qt/5.15.0/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QJpegPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\Qt\5.15.0\clang_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/Users/mateuszszybicki/Desktop/PROJEKT/../../Qt/5.15.0/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QMacHeifPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\Qt\5.15.0\clang_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/Users/mateuszszybicki/Desktop/PROJEKT/../../Qt/5.15.0/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QMacJp2Plugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\Qt\5.15.0\clang_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/Users/mateuszszybicki/Desktop/PROJEKT/../../Qt/5.15.0/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QMinimalIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\Qt\5.15.0\clang_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/Users/mateuszszybicki/Desktop/PROJEKT/../../Qt/5.15.0/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QOffscreenIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\Qt\5.15.0\clang_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/Users/mateuszszybicki/Desktop/PROJEKT/../../Qt/5.15.0/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QSvgIconPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\Qt\5.15.0\clang_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/Users/mateuszszybicki/Desktop/PROJEKT/../../Qt/5.15.0/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QSvgPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\Qt\5.15.0\clang_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/Users/mateuszszybicki/Desktop/PROJEKT/../../Qt/5.15.0/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QTgaPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\Qt\5.15.0\clang_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/Users/mateuszszybicki/Desktop/PROJEKT/../../Qt/5.15.0/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QTiffPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\Qt\5.15.0\clang_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/Users/mateuszszybicki/Desktop/PROJEKT/../../Qt/5.15.0/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QTuioTouchPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\Qt\5.15.0\clang_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/Users/mateuszszybicki/Desktop/PROJEKT/../../Qt/5.15.0/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QVirtualKeyboardPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\Qt\5.15.0\clang_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/Users/mateuszszybicki/Desktop/PROJEKT/../../Qt/5.15.0/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QWbmpPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\Qt\5.15.0\clang_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/Users/mateuszszybicki/Desktop/PROJEKT/../../Qt/5.15.0/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QWebGLIntegrationPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\Qt\5.15.0\clang_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/Users/mateuszszybicki/Desktop/PROJEKT/../../Qt/5.15.0/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QWebpPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\Qt\5.15.0\clang_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/Users/mateuszszybicki/Desktop/PROJEKT/../../Qt/5.15.0/clang_64/lib/cmake/Qt5Gui/Qt5Gui_QXdgDesktopPortalThemePlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\Qt\5.15.0\clang_64\lib\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/Users/mateuszszybicki/Desktop/PROJEKT/../../Qt/5.15.0/clang_64/lib/cmake/Qt5Core/Qt5CoreConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\Qt\5.15.0\clang_64\lib\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="/Users/mateuszszybicki/Desktop/PROJEKT/../../Qt/5.15.0/clang_64/lib/cmake/Qt5Core/Qt5CoreConfigExtras.cmake">
+			<Option virtualFolder="CMake Files\..\..\Qt\5.15.0\clang_64\lib\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="/Users/mateuszszybicki/Desktop/PROJEKT/../../Qt/5.15.0/clang_64/lib/cmake/Qt5Core/Qt5CoreConfigExtrasMkspecDir.cmake">
+			<Option virtualFolder="CMake Files\..\..\Qt\5.15.0\clang_64\lib\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="/Users/mateuszszybicki/Desktop/PROJEKT/../../Qt/5.15.0/clang_64/lib/cmake/Qt5Core/Qt5CoreConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\Qt\5.15.0\clang_64\lib\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="/Users/mateuszszybicki/Desktop/PROJEKT/../../Qt/5.15.0/clang_64/lib/cmake/Qt5Core/Qt5CoreMacros.cmake">
+			<Option virtualFolder="CMake Files\..\..\Qt\5.15.0\clang_64\lib\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="/Users/mateuszszybicki/Desktop/PROJEKT/../../Qt/5.15.0/clang_64/lib/cmake/Qt5Sql/Qt5SqlConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\Qt\5.15.0\clang_64\lib\cmake\Qt5Sql\"/>
+		</Unit>
+		<Unit filename="/Users/mateuszszybicki/Desktop/PROJEKT/../../Qt/5.15.0/clang_64/lib/cmake/Qt5Sql/Qt5SqlConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\Qt\5.15.0\clang_64\lib\cmake\Qt5Sql\"/>
+		</Unit>
+		<Unit filename="/Users/mateuszszybicki/Desktop/PROJEKT/../../Qt/5.15.0/clang_64/lib/cmake/Qt5Sql/Qt5Sql_QODBCDriverPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\Qt\5.15.0\clang_64\lib\cmake\Qt5Sql\"/>
+		</Unit>
+		<Unit filename="/Users/mateuszszybicki/Desktop/PROJEKT/../../Qt/5.15.0/clang_64/lib/cmake/Qt5Sql/Qt5Sql_QPSQLDriverPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\Qt\5.15.0\clang_64\lib\cmake\Qt5Sql\"/>
+		</Unit>
+		<Unit filename="/Users/mateuszszybicki/Desktop/PROJEKT/../../Qt/5.15.0/clang_64/lib/cmake/Qt5Sql/Qt5Sql_QSQLiteDriverPlugin.cmake">
+			<Option virtualFolder="CMake Files\..\..\Qt\5.15.0\clang_64\lib\cmake\Qt5Sql\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
